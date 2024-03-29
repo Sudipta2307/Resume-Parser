@@ -3,7 +3,7 @@ Track-2-reveilio-labs-(Mined_2024 Hackathon)
 
 # Resume Revealer
 
-Resume Revealer is a Python script that extracts information from resumes in PDF or DOCX format. It utilizes natural language processing (NLP) techniques to parse resumes and extract details such as name, email, phone number, education, skills, job titles, and general sections.
+Resume Revealer is a Python script that extracts information from resumes in PDF or DOCX format. It utilizes natural language processing (NLP) techniques to parse resumes and extract details such as name, email, phone number, education, skills, job titles, and general sections.By harnessing the power of NLP, the script intelligently identifies and categorizes different sections within the resume, ensuring comprehensive extraction of relevant data. Additionally, it employs regular expressions to accurately capture email addresses and phone numbers, enhancing the accuracy of contact information extraction.The extracted information is presented in a structured format, allowing recruiters and HR professionals to quickly assess candidate profiles. With Resume Revealer, the arduous task of manual resume parsing is automated, saving valuable time and resources in the recruitment process
 
 ## Features
 - Extracts name, email, and phone number from resumes.
