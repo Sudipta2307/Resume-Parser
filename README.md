@@ -27,7 +27,5 @@ Resume Revealer is a Python script that extracts information from resumes in PDF
 
 5. The script will extract information from the provided resume and display the results.
 
-## Team
-[Nidarshan M V, Sudipta Sundar Pal, Kaviish kumaar Dhiman]
 
 
