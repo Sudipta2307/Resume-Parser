@@ -1,5 +1,3 @@
-# ResumeRevealer
-Track-2-reveilio-labs-(Mined_2024 Hackathon)
 
 # Resume Revealer
 
@@ -26,6 +24,4 @@ Resume Revealer is a Python script that extracts information from resumes in PDF
 4. Run the script and follow the instructions to input the file name.
 
 5. The script will extract information from the provided resume and display the results.
-
-
 
