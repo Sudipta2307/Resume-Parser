@@ -6,14 +6,14 @@ import pdfplumber
 import os
 
 nlp = en_core_web_sm.load()
-
+#Extract the text from pdf
 def extract_text_from_pdf(file_path):
     with pdfplumber.open(file_path) as pdf:
         text = ""
         for page in pdf.pages:
             text += page.extract_text()
     return text
-
+#Extraxt the text from word
 def extract_text_from_word(file_path):
     doc = Document(file_path)
     text = " ".join([paragraph.text for paragraph in doc.paragraphs])
